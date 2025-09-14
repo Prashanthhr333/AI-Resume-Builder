@@ -18,7 +18,7 @@ Built with **React.js, TailwindCSS, Node.js, Express, Prisma ORM, and Gemini API
   - Generate PDF using [`@react-pdf/renderer`](https://react-pdf.org/)
 
 - **AI ATS Score Checker**
-  - Analyze resume using AI (OpenAI API)
+  - Analyze resume using AI (GeminiAI API)
   - Get ATS score, missing keywords, and improvement tips
 
 - **Data Storage**
@@ -27,7 +27,7 @@ Built with **React.js, TailwindCSS, Node.js, Express, Prisma ORM, and Gemini API
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Guest or Registered User**  
    - Guests can start building resumes without logging in  
@@ -42,12 +42,12 @@ Built with **React.js, TailwindCSS, Node.js, Express, Prisma ORM, and Gemini API
    - Use `react-pdf` to render the resume as PDF
 
 4. **ATS Score Check**  
-   - Send resume text to OpenAI
+   - Send resume text to GeminiAI
    - Receive feedback with score & keyword suggestions
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 - React.js
@@ -59,9 +59,9 @@ Built with **React.js, TailwindCSS, Node.js, Express, Prisma ORM, and Gemini API
 - Prisma ORM
 - PostgreSQL / MySQL
 - JWT Authentication
-- OpenAI API (for ATS analysis)
+- GeminiAI API (for ATS analysis)
 
 ---
 
-## 📂 Project Structure
+
 
