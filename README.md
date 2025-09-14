@@ -1,11 +1,11 @@
-# 📄 AI Resume Builder
+#  AI Resume Builder
 
 An AI-powered resume builder web application that lets users create professional resumes, select templates, check ATS (Applicant Tracking System) compatibility, and download them as PDF.  
-Built with **React.js, TailwindCSS, Node.js, Express, Prisma ORM, and OpenAI API**.
+Built with **React.js, TailwindCSS, Node.js, Express, Prisma ORM, and Gemini API**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **User Authentication**
   - Register & Login with JWT Authentication
